@@ -1,0 +1,52 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "BranchOne"
+    },
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "BranchOne"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "BranchOne"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "BranchOne"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "BranchOne"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "BranchOne"
+    },
+    "cordova-plugin-geolocation": {
+      "PACKAGE_NAME": "BranchOne"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "BranchOne"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "BranchOne"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "BranchOne"
+    },
+    "cordova-plugin-vibration": {
+      "PACKAGE_NAME": "BranchOne"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-compat": {
+      "PACKAGE_NAME": "BranchOne"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "BranchOne"
+    }
+  }
+}
